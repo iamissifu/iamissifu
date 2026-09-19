@@ -6,7 +6,7 @@ I study how intelligent systems fail — in models, in the platforms that host t
 
 Teaching Assistant, Department of Cybersecurity and Information Systems, [University of Mines and Technology (UMaT)](https://www.umat.edu.gh/) · Tarkwa, Ghana
 
-[Email](mailto:sibdooissifu@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sibdou-issifu) · [Portfolio](https://sibdou-issifu-portfolio.netlify.app) · [Medium](https://medium.com/@sibdooissifu) · [TryHackMe](https://tryhackme.com/p/iamsibdou) · [Hack The Box](https://app.hackthebox.com/users/overview/3130744)
+[Email](mailto:sibdooissifu@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sibdou-issifu) · [Portfolio](https://sibdou-issifu-portfolio.netlify.app) · [ssshhadesCTF_](https://ssshhadesctf.geekbyte.tech/) · [Medium](https://medium.com/@sibdooissifu) · [TryHackMe](https://tryhackme.com/p/iamsibdou) · [Hack The Box](https://app.hackthebox.com/users/overview/3130744)
 
 ---
 
@@ -67,6 +67,7 @@ Work that best represents how I think. Full code: [github.com/iamissifu](https:/
 | [mined-tonnes-predictor-Hybrid-models](https://github.com/iamissifu/mined-tonnes-predictor-Hybrid-models) | Hybrid models for haulage / production in a mining setting (domain ML on industrial data). |
 | [ubuntu-server-hardening-for-k8s](https://github.com/iamissifu/ubuntu-server-hardening-for-k8s) | Ansible hardening, Docker, and a single-node Kubernetes baseline. |
 | [gyaakye-student-portal](https://github.com/iamissifu/gyaakye-student-portal) | Session-bound OTP, cross-browser challenge rejection, and security-event logging. |
+| [ssshhadesCTF_](https://ssshhadesctf.geekbyte.tech/) | Founder-built CTF platform: challenges and vulnerable machines so beginners can learn and practice cybersecurity. |
 
 ---
 
@@ -95,7 +96,7 @@ Secure coding in Flutter and web apps; vulnerability analysis; digital-literacy 
 ## Teaching and community
 
 - **Cybersecurity Instructor and Program Manager**, Geek Byte Tech Training, Ghana (Sep 2024 – present) — curriculum and labs for 50+ learners across cybersecurity, AI/ML, and related tracks; cloud-based defensive labs.
-- **Founder**, [ssshhadesCTF_](https://github.com/iamissifu) (Dec 2025 – present) — Africa-focused CTF community.
+- **Founder and CTF Engineer**, [ssshhadesCTF_](https://ssshhadesctf.geekbyte.tech/) (Dec 2025 – present) — I design and run a learning platform where I create CTF challenges and vulnerable machines so beginners can practice cybersecurity in a controlled lab.
 - **IoT Instructor**, Aaenics Robotics Club, UMaT (Jan 2023 – Jul 2025) — microcontroller programming, sensing, and student projects in automation and environmental monitoring.
 
 ---
