@@ -87,34 +87,27 @@ Code: [github.com/iamissifu](https://github.com/iamissifu)
 
 ## Current
 
-**Founder and CTF Engineer** · [ssshhadesCTF_](https://ssshhadesctf.geekbyte.tech/) · Dec 2025 to present  
-Design and host CTF challenges and vulnerable machines so beginners can practice in a controlled lab.
-
-**Teaching Assistant** · Department of Cybersecurity and Information Systems, UMaT · Nov 2025 to present  
-Labs and instruction in cybersecurity, AI in engineering, and data science. Python, network security tooling, machine learning experiments, grading, and student mentorship.
-
-**Cybersecurity Instructor and Program Manager** · Geek Byte Tech Training, Ghana · Sep 2024 to present  
-Curriculum and labs for 50+ learners across cybersecurity, AI/ML, and related tracks.
-
-**IoT Researcher** · UMaT IoT Lab · Jan 2024 to present  
-IoT and AI systems for smart agriculture and sustainable mining.
-
-**Associate Projects Reviewer** · Udacity (remote) · Oct 2022 to present  
-Reviewed 5,000+ cybersecurity and AI projects against rubrics and supported learners through Nanodegree work.
+- **Founder and CTF Engineer** · [ssshhadesCTF_](https://ssshhadesctf.geekbyte.tech/) · Dec 2025 to present
+  - Design and host CTF challenges and vulnerable machines so beginners can practice in a controlled lab.
+- **Teaching Assistant** · Department of Cybersecurity and Information Systems, UMaT · Nov 2025 to present
+  - Labs and instruction in cybersecurity, AI in engineering, and data science. Python, network security tooling, machine learning experiments, grading, and student mentorship.
+- **Cybersecurity Instructor and Program Manager** · Geek Byte Tech Training, Ghana · Sep 2024 to present
+  - Curriculum and labs for 50+ learners across cybersecurity, AI/ML, and related tracks.
+- **IoT Researcher** · UMaT IoT Lab · Jan 2024 to present
+  - IoT and AI systems for smart agriculture and sustainable mining.
+- **Associate Projects Reviewer** · Udacity (remote) · Oct 2022 to present
+  - Reviewed 5,000+ cybersecurity and AI projects against rubrics and supported learners through Nanodegree work.
 
 ## Past
 
-**Cloud and Cybersecurity Engineer** · CloudSec Network (remote) · Sep 2025 to Nov 2025  
-Automated LMS lab service on AWS with Terraform: provision, monitor, teardown, IAM, sandboxing, and logging.
-
-**Cybercrime and Digital Forensics Intern** · Ghana Police Service, Cybercrime Unit and Digital Forensics Lab, Kumasi · May 2025 to Jul 2025  
-Device imaging and analysis, OSINT for threat profiling, and security-awareness sessions for public institutions.
-
-**IoT Instructor** · Aaenics Robotics Club, UMaT · Jan 2023 to Jul 2025  
-Microcontroller programming, sensing, and student projects in automation and environmental monitoring.
-
-**Software Developer and Application Security Intern** · Kologsoft, Bolgatanga · Oct 2023 to Dec 2023  
-Secure coding in Flutter and web applications, vulnerability analysis, and digital-literacy workshop content.
+- **Cloud and Cybersecurity Engineer** · CloudSec Network (remote) · Sep 2025 to Nov 2025
+  - Automated LMS lab service on AWS with Terraform: provision, monitor, teardown, IAM, sandboxing, and logging.
+- **Cybercrime and Digital Forensics Intern** · Ghana Police Service, Cybercrime Unit and Digital Forensics Lab, Kumasi · May 2025 to Jul 2025
+  - Device imaging and analysis, OSINT for threat profiling, and security-awareness sessions for public institutions.
+- **IoT Instructor** · Aaenics Robotics Club, UMaT · Jan 2023 to Jul 2025
+  - Microcontroller programming, sensing, and student projects in automation and environmental monitoring.
+- **Software Developer and Application Security Intern** · Kologsoft, Bolgatanga · Oct 2023 to Dec 2023
+  - Secure coding in Flutter and web applications, vulnerability analysis, and digital-literacy workshop content.
 
 ---
 
