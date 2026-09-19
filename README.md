@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
+  <a href="https://ssshhadesctf.geekbyte.tech/"><img src="https://img.shields.io/badge/ssshhadesCTF-111827?style=flat-square&logo=shieldsdotio&logoColor=white" alt="ssshhadesCTF"/></a>
   <a href="mailto:sibdooissifu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/sibdou-issifu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://sibdou-issifu-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://ssshhadesctf.geekbyte.tech/"><img src="https://img.shields.io/badge/ssshhadesCTF-111827?style=flat-square&logo=shieldsdotio&logoColor=white" alt="ssshhadesCTF"/></a>
   <a href="https://medium.com/@sibdooissifu"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://tryhackme.com/p/iamsibdou"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
   <a href="https://profile.hackthebox.com/profile/019d37c1-af02-7383-ac53-24869ef0f1fd"><img src="https://img.shields.io/badge/Hack%20The%20Box-ssshhades-9FEF00?style=flat-square&logo=hackthebox&logoColor=111" alt="Hack The Box"/></a>
@@ -58,6 +58,8 @@ A cloud-native platform for verified agricultural produce: IoT sensing and geolo
 
 Code: [github.com/iamissifu](https://github.com/iamissifu)
 
+**[ssshhadesCTF_](https://ssshhadesctf.geekbyte.tech/)** · CTF platform I build and run. Challenges and vulnerable machines for beginners to learn and practice cybersecurity.
+
 ### AI systems and agents
 
 | Project | What it is |
@@ -80,14 +82,19 @@ Code: [github.com/iamissifu](https://github.com/iamissifu)
 | [mined-tonnes-predictor-Hybrid-models](https://github.com/iamissifu/mined-tonnes-predictor-Hybrid-models) | Hybrid models for haulage and production on mining data. |
 | [ubuntu-server-hardening-for-k8s](https://github.com/iamissifu/ubuntu-server-hardening-for-k8s) | Ansible hardening, Docker, and a single-node Kubernetes baseline. |
 | [gyaakye-student-portal](https://github.com/iamissifu/gyaakye-student-portal) | Session-bound OTP, cross-browser challenge rejection, and security-event logging. |
-| [ssshhadesCTF_](https://ssshhadesctf.geekbyte.tech/) | CTF platform with challenges and vulnerable machines for beginners. |
 
 ---
 
-## Experience
+## Current
+
+**Founder and CTF Engineer** · [ssshhadesCTF_](https://ssshhadesctf.geekbyte.tech/) · Dec 2025 to present  
+Design and host CTF challenges and vulnerable machines so beginners can practice in a controlled lab.
 
 **Teaching Assistant** · Department of Cybersecurity and Information Systems, UMaT · Nov 2025 to present  
 Labs and instruction in cybersecurity, AI in engineering, and data science. Python, network security tooling, machine learning experiments, grading, and student mentorship.
+
+**Cybersecurity Instructor and Program Manager** · Geek Byte Tech Training, Ghana · Sep 2024 to present  
+Curriculum and labs for 50+ learners across cybersecurity, AI/ML, and related tracks.
 
 **IoT Researcher** · UMaT IoT Lab · Jan 2024 to present  
 IoT and AI systems for smart agriculture and sustainable mining.
@@ -95,23 +102,19 @@ IoT and AI systems for smart agriculture and sustainable mining.
 **Associate Projects Reviewer** · Udacity (remote) · Oct 2022 to present  
 Reviewed 5,000+ cybersecurity and AI projects against rubrics and supported learners through Nanodegree work.
 
+## Past
+
 **Cloud and Cybersecurity Engineer** · CloudSec Network (remote) · Sep 2025 to Nov 2025  
 Automated LMS lab service on AWS with Terraform: provision, monitor, teardown, IAM, sandboxing, and logging.
 
 **Cybercrime and Digital Forensics Intern** · Ghana Police Service, Cybercrime Unit and Digital Forensics Lab, Kumasi · May 2025 to Jul 2025  
 Device imaging and analysis, OSINT for threat profiling, and security-awareness sessions for public institutions.
 
-**Software Developer and Application Security Intern** · Kologsoft, Bolgatanga · Oct 2023 to Dec 2023  
-Secure coding in Flutter and web applications, vulnerability analysis, and digital-literacy workshop content.
-
-**Cybersecurity Instructor and Program Manager** · Geek Byte Tech Training, Ghana · Sep 2024 to present  
-Curriculum and labs for 50+ learners across cybersecurity, AI/ML, and related tracks.
-
-**Founder and CTF Engineer** · [ssshhadesCTF_](https://ssshhadesctf.geekbyte.tech/) · Dec 2025 to present  
-Design and host CTF challenges and vulnerable machines so beginners can practice in a controlled lab.
-
 **IoT Instructor** · Aaenics Robotics Club, UMaT · Jan 2023 to Jul 2025  
 Microcontroller programming, sensing, and student projects in automation and environmental monitoring.
+
+**Software Developer and Application Security Intern** · Kologsoft, Bolgatanga · Oct 2023 to Dec 2023  
+Secure coding in Flutter and web applications, vulnerability analysis, and digital-literacy workshop content.
 
 ---
 
