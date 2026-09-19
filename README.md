@@ -16,7 +16,7 @@
   <a href="https://ssshhadesctf.geekbyte.tech/"><img src="https://img.shields.io/badge/ssshhadesCTF-111827?style=flat-square&logo=shieldsdotio&logoColor=white" alt="ssshhadesCTF"/></a>
   <a href="https://medium.com/@sibdooissifu"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://tryhackme.com/p/iamsibdou"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
-  <a href="https://app.hackthebox.com/users/overview/3130744"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=111" alt="Hack The Box"/></a>
+  <a href="https://profile.hackthebox.com/profile/019d37c1-af02-7383-ac53-24869ef0f1fd"><img src="https://img.shields.io/badge/Hack%20The%20Box-ssshhades-9FEF00?style=flat-square&logo=hackthebox&logoColor=111" alt="Hack The Box"/></a>
 </p>
 
 ---
@@ -200,9 +200,11 @@ Microcontroller programming, sensing, and student projects in automation and env
 | AWS Certified Cloud Practitioner | Jan 2025 |
 | Google Cybersecurity Professional Certificate | Jun 2024 |
 
+Hack The Box Pro Labs (verified): [Puppet](https://profile.hackthebox.com/profile/019d37c1-af02-7383-ac53-24869ef0f1fd) (Jul 2026), [Mythical](https://profile.hackthebox.com/profile/019d37c1-af02-7383-ac53-24869ef0f1fd) (Aug 2026).
+
 <p>
   <a href="https://tryhackme.com/p/iamsibdou"><img src="https://img.shields.io/badge/TryHackMe-iamsibdou-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
-  <a href="https://app.hackthebox.com/users/overview/3130744"><img src="https://img.shields.io/badge/Hack%20The%20Box-3130744-9FEF00?style=flat-square&logo=hackthebox&logoColor=111" alt="Hack The Box"/></a>
+  <a href="https://profile.hackthebox.com/profile/019d37c1-af02-7383-ac53-24869ef0f1fd"><img src="https://img.shields.io/badge/Hack%20The%20Box-ssshhades-9FEF00?style=flat-square&logo=hackthebox&logoColor=111" alt="Hack The Box"/></a>
 </p>
 
 ---
